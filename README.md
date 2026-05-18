@@ -79,4 +79,11 @@ Identification of highly active and low-performing branches
 
 Customer preference for different payment modes
 
+🛠️ Tools Used
+
+Tableau Desktop Public Edition – Dashboard creation & visualization
+
+Excel / CSV Data Source (Assumed)
+
+Data cleaning & preparation prior to visualization
 
