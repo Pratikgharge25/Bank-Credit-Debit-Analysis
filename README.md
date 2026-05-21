@@ -83,7 +83,5 @@ Customer preference for different payment modes
 
 Tableau Desktop Public Edition – Dashboard creation & visualization
 
-Excel / CSV Data Source (Assumed)
 
-Data cleaning & preparation prior to visualization
 
